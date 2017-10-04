@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "contrast" # "air", "contrast", "dark", "dirt", "mint
 
 # Site Settings
 locale                   : "en"
-title                    : "🏠 Beemsterstraat 370"
+title                    : "Beemsterstraat 370"
 title_separator          : "-"
 name                     : "Happy Toasters"
 description              : "A website devoted to Amsterdam's best apartment."
@@ -60,7 +60,7 @@ yandex_site_verification :
 twitter:
   username               : "sanekgusev"
 facebook:
-  username               : #"sanekgusev"
+  username               : "sanekgusev"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -86,22 +86,22 @@ author:
   location         : "Pittsburgh, PA, 🇺🇸"
   email            : "sanekgusev@gmail.com"
   uri              :
-  bitbucket        : #"sanekgusev"
+  bitbucket        : "sanekgusev"
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : #"sanekgusev"
+  facebook         : "sanekgusev"
   foursquare       :
-  github           : #"sanekgusev"
-  gitlab           : #"sanekgusev"
+  github           : "sanekgusev"
+  gitlab           : "sanekgusev"
   google_plus      :
   keybase          :
-  instagram        : #"sanekgusev"
+  instagram        : "sanekgusev"
   lastfm           :
-  linkedin         : #"sanekgusev" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "sanekgusev" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  stackoverflow    : "1987487/sanekgusev" #(the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
