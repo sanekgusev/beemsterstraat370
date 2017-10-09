@@ -10,7 +10,7 @@ Interested in renting our lovely place? Get in touch!
 My name is Aleksandr (Alex) Gusev and you can reach me via:
 
 1. All kinds of online contact points:
-  - Email: [sanekgusev@gmail.com](mailto:sanekgusev@gmail.com)
+  - Email/Google Hangouts: [sanekgusev@gmail.com](mailto:sanekgusev@gmail.com)
   - Twitter: [@sanekgusev](https://twitter.com/sanekgusev)
   - Whatsapp: +12628851119
   - Telegram: [sanekgusev](https://telegram.me/sanekgusev)
