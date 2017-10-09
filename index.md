@@ -46,7 +46,9 @@ Minimum rental duration is 1 year. The rental agreement can be prolonged after t
 
 Amsterdam Noord/Nieuwendam, inbetween the Buikslotermeerplein and the Waterlandplein.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2434.7122800403417!2d4.9477453157749824!3d52.39376595332913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c608e7a823d54d%3A0xbedc4b503585fb8c!2sBeemsterstraat+370%2C+1024+BN+Amsterdam%2C+Netherlands!5e0!3m2!1sen!2sus!4v1507079158806" width="400" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+<div class="responsive-video-container">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2434.7122800403417!2d4.9477453157749824!3d52.39376595332913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c608e7a823d54d%3A0xbedc4b503585fb8c!2sBeemsterstraat+370%2C+1024+BN+Amsterdam%2C+Netherlands!5e0!3m2!1sen!2sus!4v1507079158806" allowfullscreen></iframe>
+</div>
 
 # Commute
 
@@ -119,7 +121,9 @@ The Boven 't IJ shopping center has, among others:
 - Media Markt and BCC electronics stores
 - lots of other places selling things and offering services
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1fRgRpNnRYrhYE0qmtstYh_r8IJM" width="640" height="480"></iframe>
+<div class="responsive-video-container">
+	<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1fRgRpNnRYrhYE0qmtstYh_r8IJM"></iframe>
+</div>
 
 # House Rules
 
@@ -147,4 +151,4 @@ We'll want to do a quick chat with you on Skype/Hangouts (or phone, if all else 
 
 We're a small family of three, we've lived in Amsterdam for 2 years (from 2014 till 2016) because of myself working there — first at Booking.com and later at ING Bank. We have since moved to Pittsburgh, United States and this is where we live right now. 
 
-My name is Aleksandr (Alex) Gusev, and you can find me on Twitter as [@sanekgusev](https://twitter.com/sanekgusev), email me at [sanekgusev@gmail.com](mailto:sanekgusev@gmail.com) or look for other ways of reaching out to me on the [Contacts]({{ site.url }}/contacts/) page. I am for real, just [Google sanekgusev](https://google.com/search?q=sanekgusev).
+My name is Aleksandr (Alex) Gusev, and you can find me on Twitter as [@sanekgusev](https://twitter.com/sanekgusev), email me at [sanekgusev@gmail.com](mailto:sanekgusev@gmail.com) or look for other ways of reaching out to me on the [Contact]({{ site.url }}/contact/) page. I am for real, just [Google sanekgusev](https://google.com/search?q=sanekgusev).

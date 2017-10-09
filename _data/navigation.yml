@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Home"
+    url: /
   - title: "Photos"
     url: /photos/
   - title: "Get in Touch"

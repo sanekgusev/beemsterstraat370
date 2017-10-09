@@ -88,3 +88,7 @@ permalink: /photos/
 ## 🌳 Inner Yard View from the Master Bedroom
 
 [![Inner Yard View]({{ site.url }}/assets/images/resized/innerYard.jpg)]({{ site.url }}/assets/images/innerYard.jpg)
+
+## Contact Us
+
+Like what you see? [Get in touch!]({{ site.url }}/contact/)
