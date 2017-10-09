@@ -26,5 +26,5 @@ Please note that we're living in UTC-04:00, and Amsterdam is UTC+02:00, i. e., w
 
 # Apartment Viewings
 
-We're still in the process of figuring out how best to arrange apartment viewings. Most likely, we'll coordinate this with current tenants or with one of our neighbors.
+To arrange for apartment viewing, get in touch with me using one of the ways mentioned above. Generally, expect the apartment to be available for viewings on weekdays after 7PM and on weekends after 1PM.
 
