@@ -12,7 +12,7 @@ minimal_mistakes_skin    : "contrast" # "air", "contrast", "dark", "dirt", "mint
 locale                   : "en"
 title                    : "Beemsterstraat 370"
 title_separator          : "-"
-name                     : "Happy Toasters"
+name                     : "Aleksandr Gusev"
 description              : "A website devoted to Amsterdam's best apartment."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -63,7 +63,7 @@ facebook:
   username               : "sanekgusev"
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/livingroom-facingWindow.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -86,14 +86,14 @@ author:
   location         : "Pittsburgh, PA, 🇺🇸"
   email            : "sanekgusev@gmail.com"
   uri              :
-  bitbucket        : "sanekgusev"
+  bitbucket        : #"sanekgusev"
   codepen          :
   dribbble         :
   flickr           :
   facebook         : "sanekgusev"
   foursquare       :
-  github           : "sanekgusev"
-  gitlab           : "sanekgusev"
+  github           : #"sanekgusev"
+  gitlab           : #"sanekgusev"
   google_plus      :
   keybase          :
   instagram        : "sanekgusev"

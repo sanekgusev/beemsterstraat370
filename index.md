@@ -36,11 +36,11 @@ A picture is worth a thousand words. If you haven't already, take a look at the 
 
 # Rental price and duration
 
-€ 1050/month, transferred mothly to our Dutch bank account. 
+€ 1050/month, transferred mothly to our Dutch bank account. There are no contract signing fees.
 
-Gas/electricity & water are __not__ included. 
+Gas/electricity, water, internet, etc. are __not__ included. 
 
-Minimum rental duration is 1 year. The agreement can be prolonged after that.
+Minimum rental duration is 1 year. The rental agreement can be prolonged after that.
 
 # Location
 
@@ -137,11 +137,14 @@ You are responsible for arranging (and paying for) gas/electricity, water supply
 
 Finally, we'd __really__ appreciate it if you would treat our place nice and clean, just like we did.
 
-# Owners
-
-We're a small family of three, we've lived in Amsterdam for 2 years (from 2014 till 2016) because of myself working there. We have since moved to Pittsburgh, United States and this is where we live right now. My name is Aleksandr Gusev, and you can find me on Twitter as [@sanekgusev](https://twitter.com/sanekgusev), email me at [sanekgusev@gmail.com](mailto:sanekgusev@gmail.com) or look for other ways of reaching out to me on the [Contacts]({{ site.url }}/contacts/) page. I am for real, just [Google sanekgusev](https://google.com/search?q=sanekgusev).
-
 # Process
 
-Since we're not physically present in Amsterdam, we will do the whole process electronically, by email. We'll want to do a quick chat with you on Skype/Hangouts (or phone, if all else fails) to get to know you before signing the rental agreement, and the agreement itself will be signed electronically and sent by email. You should be fine using that to register yourself at our address in the municipality. We'll also want to see your employment contract or a standard statement from your employer, as well as copies of your residence cards or passports.
+Since we're not physically present in Amsterdam, we will do the whole process electronically, by email. 
 
+We'll want to do a quick chat with you on Skype/Hangouts (or phone, if all else fails) to get to know you before signing the rental agreement, and the agreement itself will be signed electronically and sent by email. You should be fine using that to register yourself at our address in the municipality. We'll also want to see your employment contract or a standard statement from your employer, as well as copies of your residence cards or passports.
+
+# Owners
+
+We're a small family of three, we've lived in Amsterdam for 2 years (from 2014 till 2016) because of myself working there — first at Booking.com and later at ING Bank. We have since moved to Pittsburgh, United States and this is where we live right now. 
+
+My name is Aleksandr (Alex) Gusev, and you can find me on Twitter as [@sanekgusev](https://twitter.com/sanekgusev), email me at [sanekgusev@gmail.com](mailto:sanekgusev@gmail.com) or look for other ways of reaching out to me on the [Contacts]({{ site.url }}/contacts/) page. I am for real, just [Google sanekgusev](https://google.com/search?q=sanekgusev).
