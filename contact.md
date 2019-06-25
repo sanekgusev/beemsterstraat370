@@ -22,9 +22,9 @@ My name is Aleksandr (Alex) Gusev and you can reach me via:
 
 ### A note about timezones
 
-Please note that we're living in UTC-04:00, and Amsterdam is UTC+02:00, i. e., we're 6 hours behind. For that reason, please try calling in the afternoon, after 2 PM Amsterdam time. Correspondingly, please allow a bit more time for answering your emails.
+Please note that we're living in UTC-07:00, and Amsterdam is UTC+02:00, i. e., we're 9 hours behind. For that reason, calling works best in the evening, after 5 PM Amsterdam time. Correspondingly, please allow a bit more time for answering your emails.
 
 # Apartment Viewings
 
-To arrange for apartment viewing, get in touch with me using one of the ways mentioned above. Generally, expect the apartment to be available for viewings on weekdays after 7PM and on weekends after 1PM.
+To arrange for apartment viewing, get in touch with me using one of the ways mentioned above. Generally, expect the apartment to be likely available for viewings on weekday evenings and on weekends depending on current tenant availability.
 
