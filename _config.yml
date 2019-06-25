@@ -115,9 +115,7 @@ author:
 include:
   - .htaccess
   - _pages
-  - "index.html"
 exclude:
-  - "*.*"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
