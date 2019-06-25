@@ -5,7 +5,7 @@ sidebar:
   - text: "€ **1150**/month + utilities"
   - title: "Location"
   - text: "Amsterdam Noord"
-  - text: "30 minutes to city center"
+  - text: "25 minutes to city center"
   - title: "Features"
   - text: "fully furnished"
   - text: "**49** m²"
