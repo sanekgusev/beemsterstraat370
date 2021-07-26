@@ -4,11 +4,11 @@ sidebar:
   - title: "Price"
   - text: "€ **1200**/month + utilities"
   - title: "Availability"
-  - text: "Mid-August 2021"
+  - text: "mid-August 2021"
   - title: "Location"
   - text: "Amsterdam Noord"
   - text: "20 minutes by bike to city center"
-  - text: "6 minutes by bike to Amsterdam Noord metro station"
+  - text: "6 minutes by bike to metro station Noord"
   - title: "Features"
   - text: "furnished"
   - text: "**49** m²"
@@ -29,7 +29,7 @@ header:
 
 # The Apartment
 
-We're renting out our fully furnished lovely little apartment. Located in the laidback Amsterdam Noord neighborhood, with parks, schools and shopping malls within walking distance, and the metro not much farther, it's far enough from the hustle and bustle of Amsterdam's city center, yet still well-connected to the Amsterdam Centraal station and the rest of the city.
+We're renting out our fully furnished lovely little apartment. Located in the laidback Amsterdam Noord neighborhood, with parks, schools and shopping malls within walking distance, and the metro station within biking distance, it's far enough from the hustle and bustle of Amsterdam's city center, yet still well-connected to the Amsterdam Centraal station and the rest of the city.
 
 It's a single bedroom-turned-1.5-bedroom apartment with a corner kitchen in the living room. In addition to the master bedroom there's also a second, smaller, bedroom which could serve as a small home office or a kids' bedroom (our son loved it!).
 
@@ -45,7 +45,7 @@ Gas/electricity, water, internet, etc. are __not__ included.
 
 The rental agreement will be signed for 2 years. As per the Dutch law the renter will be able to cancel the agreement with a 1 month notice at any time.
 
-Preference will be given to candidates intending to rent for for the entire 2 years.
+Preference will be given to candidates intending to rent for the entire 2 years.
 
 # Location
 
@@ -92,7 +92,7 @@ Here are some of the nice things that we have in our apartment:
 - Bookshelf
 - Desk with chair
 - Wall shelves
-- Kids bed ~150cm long (currently in storage upstairs)
+- Kids' bed ~150cm long (currently in storage upstairs)
 
 ### Appliances
 
