@@ -6,7 +6,7 @@ sidebar:
   - title: "Availability"
   - text: "mid-August 2021"
   - title: "Location"
-  - text: "Amsterdam Noord"
+  - text: "Amsterdam Noord/Niewendam"
   - text: "20 minutes by bike to city center"
   - text: "6 minutes by bike to metro station Noord"
   - title: "Features"
