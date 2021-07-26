@@ -23,7 +23,7 @@ permalink: /photos/
 
 [![Facing Kitchen Corner]({{ site.url }}/assets/images/resized/livingroom-facingKitchen.jpg)]({{ site.url }}/assets/images/livingroom-facingKitchen.jpg)
 
-## 🛏 Master Bedroom
+## 🛏 Main Bedroom
 
 ### Facing Window
 

@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Aleksandr Gusev"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I do iOS."
-  location         : "Pittsburgh, PA, 🇺🇸"
+  bio              : "I write software."
+  location         : "Munich, 🇩🇪"
   email            : "sanekgusev@gmail.com"
   uri              :
   bitbucket        : #"sanekgusev"
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         : "sanekgusev"
   foursquare       :
-  github           : #"sanekgusev"
+  github           : "sanekgusev"
   gitlab           : #"sanekgusev"
   google_plus      :
   keybase          :
