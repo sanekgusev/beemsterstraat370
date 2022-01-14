@@ -106,7 +106,7 @@ And here are some of the things that we __don't__ have, but which you might miss
 - Dishwasher
 - Exhaust hood (over the cooktop)
 - TV set
-- Window curtains, except in master bedroom
+- Window curtains, except in main bedroom
 
 <a name="useful_places"></a>
 # Useful Places Nearby

@@ -57,9 +57,9 @@ permalink: /photos/
 
 ## 🚪 Hallway
 
-### Facing Master Bedroom
+### Facing Main Bedroom
 
-[![Facing Master Bedroom]({{ site.url }}/assets/images/resized/hall-facingBedroom.jpg)]({{ site.url }}/assets/images/hall-facingBedroom.jpg)
+[![Facing Main Bedroom]({{ site.url }}/assets/images/resized/hall-facingBedroom.jpg)]({{ site.url }}/assets/images/hall-facingBedroom.jpg)
 
 <!--### Facing Toilet & Bathroom
 
@@ -85,7 +85,7 @@ permalink: /photos/
 
 [![Street View]({{ site.url }}/assets/images/resized/street.jpg)]({{ site.url }}/assets/images/street.jpg)
 
-## 🌳 Inner Yard View from the Master Bedroom
+## 🌳 Inner Yard View from the Main Bedroom
 
 [![Inner Yard View]({{ site.url }}/assets/images/resized/innerYard.jpg)]({{ site.url }}/assets/images/innerYard.jpg)
 
