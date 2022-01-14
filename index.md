@@ -2,9 +2,9 @@
 layout: single
 sidebar:
   - title: "Price"
-  - text: "€ **1200**/month + utilities"
+  - text: "€ **1250**/month + utilities"
   - title: "Availability"
-  - text: "mid-August 2021"
+  - text: "March 1st, 2022"
   - title: "Location"
   - text: "Amsterdam Noord/Niewendam"
   - text: "20 minutes by bike to city center"
@@ -13,7 +13,7 @@ sidebar:
   - text: "furnished"
   - text: "**49** m²"
   - text: "**1** main bedroom"
-  - text: "**1** small/kids' bedroom"
+  - text: "**1** smaller bedroom/office"
   - title: "Notes"
   - text: "no pets"
   - text: "no smoking"
@@ -31,7 +31,7 @@ header:
 
 We're renting out our fully furnished lovely little apartment. Located in the laidback Amsterdam Noord neighborhood, with parks, schools and shopping malls within walking distance, and the metro station within biking distance, it's far enough from the hustle and bustle of Amsterdam's city center, yet still well-connected to the Amsterdam Centraal station and the rest of the city.
 
-It's a single bedroom-turned-1.5-bedroom apartment with a corner kitchen in the living room. In addition to the master bedroom there's also a second, smaller, bedroom which could serve as a small home office or a kids' bedroom (our son loved it!).
+It's a single bedroom-turned-1.5-bedroom apartment with a corner kitchen in the living room. In addition to the main bedroom there's also a second, smaller, bedroom which could serve as a small home office or a kids' bedroom (our son loved it!).
 
 Our apartment has separate toilet and bathroom. There's also a huge storage room downstairs for all your bicycles and whatnot.
 
@@ -39,9 +39,9 @@ A picture is worth a thousand words. If you haven't already, take a look at the 
 
 # Rental price and duration
 
-€ 1200/month, transferred monthly to our Dutch bank account. There are no contract signing fees.
+€ 1250/month, transferred monthly to our Dutch bank account. There are no contract signing fees.
 
-Gas/electricity, water, internet, etc. are __not__ included.
+Gas, electricity, water, internet/tv are __not__ included.
 
 The rental agreement will be signed for 2 years. As per the Dutch law the renter will be able to cancel the agreement with a 1 month notice at any time.
 
@@ -75,30 +75,30 @@ Here are some of the nice things that we have in our apartment:
 
 ### Living room
 
-- Bar table with 4 colorful bar chairs
+- Bar table with 3 colorful bar chairs
 - Minimalistic sofa convertible to a double sleeping place
 - Coffee table
 - Built-in shelf closet
 
-### Master Bedroom
+### Main Bedroom
 
 - 140cm wide double bed
 - Built-in clothes closet
 - Dresser
 - Small desk with chair
 
-### Second Bedroom
+### Second Bedroom/Office
 
 - Bookshelf
 - Desk with chair
+- Floor lamp
 - Wall shelves
-- Kids' bed ~150cm long (currently in storage upstairs)
 
 ### Appliances
 
-- iRobot Braava automatic mopper
+- Floor mopper robot
 - Cordless vacuum cleaner
-- AEG Lavamat 61260TL compact top-loading washing machine
+- Compact top-loading washing machine
 
 And here are some of the things that we __don't__ have, but which you might miss, so keep these in mind:
 
@@ -131,28 +131,28 @@ The Boven 't IJ shopping center has, among others:
 
 # House Rules
 
-Families with children of any age are welcome, but pets are not. 
+Sorry, no pets.
 
 Absolutely no smoking of any kind within the apartment, smoking on the balcony is okay.
 
 Anything involving drilling holes in walls or any other not easily revertible alterations should be first discussed with us and would be at our discretion. 
 
-You are free to move the furniture around, move it away into the storage area, or buy new stuff. Your stuff remains yours, unless we explicitly agree otherwise. Feel free to use anything that is in the apartment.
+You are free to move the furniture around or buy new stuff. Your stuff remains yours, unless we explicitly agree otherwise. Feel free to use anything that is in the apartment.
 
 We generally expect you to handle trivial home repairs on your own (dead lightbulbs, broken hooks, etc.). We will reimburse the costs of any major repairs that you will have to make (washing machine, kitchen appliances, plumbing, heating, wiring and the like), just provide us with receipts for the purchase or work that has been done.
 
 You are responsible for arranging and paying for gas/electricity, water, internet/TV service. This also means canceling these subscriptions when moving out. We can provide guidance on setting those up.
 
-Finally, we'd __really__ appreciate it if you would treat our place nice and clean, just like we did.
+Finally, we'd __really__ appreciate it if you would treat our place with care and keep it nice and clean, just like we did.
 
 # Process
 
-We're usually not living in Amsterdam, but we'll be there in the first two weeks of August 2021. During that time we can show you the apartment in person. Afterwards, it will likely be our friends showing you around.
+We don't live in Amsterdam, but we might come in person to sign the rental agreement. If not, we will arrange for somebody else to show you the apartment.
 
-We'll want to do a quick chat with you in person or over a video chat to get to know you before signing the rental agreement. If we're out of town at the time of signing, the rental agreement will be signed electronically over email. You will still be fine using that to register yourself at our address in the municipality (gemeente). Additionally, we'd want to see your employment contract or a standard statement from your employer (werkgeversverklaring), as well as a copy of some ID document, like a residence card or a passport.
+We'll want to do a quick chat with you in person or over a video call to get to know a bit you before signing the rental agreement. If we're not in Amsterdam at the time of signing, the rental agreement will be signed electronically over email. You will still be fine using that to register yourself at our address in the municipality (gemeente). Additionally, we'd want to see your employment contract or a standard statement from your employer (werkgeversverklaring), as well as a copy of some ID document, like your residence card or passport.
 
 # Owners
 
-We're a small family of three, and we've lived in Amsterdam for 2 years, from 2014 until 2016, because I worked there — first at Booking.com and later at ING. We have since moved away and currently live in Munich, Germany.
+We're a small family of three, and we've lived in Amsterdam for 2 years, from 2014 until 2016, because I worked there — first at Booking.com and later at ING. We have since moved and we currently live across the border, in Munich, Germany.
 
 My name is Aleksandr (Alex) Gusev, and you can find me on Twitter as [@sanekgusev](https://twitter.com/sanekgusev), email me at [sanekgusev@gmail.com](mailto:sanekgusev@gmail.com) or look for other ways of reaching out to me on the [Contact]({{ site.url }}/contact/) page. I am a real, legit person, I swear, just [Google sanekgusev](https://google.com/search?q=sanekgusev).
